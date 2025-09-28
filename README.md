@@ -34,8 +34,7 @@ feat(strings): solve LC242_ValidAnagram using HashMap (O(n), O(k))
 - LC345 Reverse Vowels of a String  
 - LC383 Ransom Note  
 - LC387 First Unique Character in a String  
-- LC844 Backspace String Compare
-- LC28 Find First Occurrence in a String (IndexOf + KMP in progress)  
+- LC844 Backspace String Compare 
 
 
 (More problems continuously being added...)
