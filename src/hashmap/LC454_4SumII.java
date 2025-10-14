@@ -44,7 +44,7 @@ public class LC454_4SumII {
      * @param nums4 fourth integer array
      * @return total number of quadruples summing to zero
      */
-    public static int fourSumCount(int[] nums1, int[] nums2, int[] nums3, int[] nums4) {
+    public  int fourSumCount(int[] nums1, int[] nums2, int[] nums3, int[] nums4) {
         HashMap<Integer, Integer> result = new HashMap<>();
         int count = 0;
 
