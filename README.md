@@ -37,6 +37,7 @@ feat(strings): solve LC242_ValidAnagram using HashMap (O(n), O(k))
 - LC844 Backspace String Compare
 - LC349_IntersectionOfTwoArrays
 - LC560_SubarraySumEqualsK
+- LC303_RangeSumQueryImmutable
 
 
 (More problems continuously being added...)
