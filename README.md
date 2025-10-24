@@ -39,6 +39,7 @@ feat(strings): solve LC242_ValidAnagram using HashMap (O(n), O(k))
 - LC560_SubarraySumEqualsK
 - LC303_RangeSumQueryImmutable
 - LC724_FindPivotIndex
+- LC454_4SumII
 
 
 (More problems continuously being added...)
