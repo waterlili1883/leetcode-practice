@@ -20,6 +20,7 @@ public class LC1422_MaximumScoreAfterSplittingAString {
      * Time Complexity:  O(n)
      * Space Complexity: O(1)
      */
+
     public int maxScore(String s) {
         int ones = 0; // total number of '1's in the whole string
         for (char c : s.toCharArray()) {
