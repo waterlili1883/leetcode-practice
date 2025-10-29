@@ -38,7 +38,8 @@ feat(strings): solve LC242_ValidAnagram using HashMap (O(n), O(k))
 - LC349_IntersectionOfTwoArrays
 - LC560_SubarraySumEqualsK
 - LC303_RangeSumQueryImmutable
-- LC724_FindPivotIndex
+- prefix
+- LC560_SubarraySumEqualsK
 
 
 
