@@ -38,7 +38,6 @@ feat(strings): solve LC242_ValidAnagram using HashMap (O(n), O(k))
 - LC349_IntersectionOfTwoArrays
 - LC560_SubarraySumEqualsK
 - LC303_RangeSumQueryImmutable
-- LC5_LongestPalindromicSubstring
 - prefix
 - LC560_SubarraySumEqualsK
 - LC1413_MinimumValueToGetPositive
